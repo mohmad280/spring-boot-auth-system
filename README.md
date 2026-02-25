@@ -1,4 +1,4 @@
-![Java](https://img.shields.io/badge/Java-17-orange)
+![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 # 🔐 Spring Boot Authentication & Security API
